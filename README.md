@@ -23,7 +23,6 @@ Esta estructura permite relacionar la información comercial y practicar consult
 El proyecto está organizado de la siguiente manera:
 
 ```text
-Proyecto_Ventas/
 ├── README.md
 └── scripts/
     ├── 01_tablas_base.sql
